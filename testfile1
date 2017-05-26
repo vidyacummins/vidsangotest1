@@ -5,7 +5,7 @@
 <?php
 echo "My first PHP script!";
 echo "Added another line!!";
-echo "Change 3";
+echo "Change 3 edited in local and pushed to master";
 ?> 
 
 </body>
